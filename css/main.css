@@ -1874,7 +1874,7 @@ pre .javascript .function {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #8eece2;
+  background: #7c54ff;
 }
 .links-of-blogroll {
   font-size: 13px;
@@ -3083,6 +3083,9 @@ header.post-header {
   .post-body {
     text-align: justify;
   }
+}
+body {
+  background: url("/images/backGround.png");
 }
 .post-body p a {
   color: #0593d3;
