@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Janet blog</title>
+  <title>Janet&#39;s blog</title>
   
-  <subtitle>Janet的日常随笔</subtitle>
+  <subtitle>Try to make sense of what you see, Be curious always!</subtitle>
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
