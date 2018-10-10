@@ -1874,7 +1874,7 @@ pre .javascript .function {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #8bff30;
+  background: #f1e7ff;
 }
 .links-of-blogroll {
   font-size: 13px;
@@ -3095,7 +3095,7 @@ header.post-header {
   border-bottom: 1px solid #fc6423;
 }
 .site-meta {
-  background: rgba(211,47,47,0.99);
+  background: #d32f2f;
 }
 .post {
   margin-top: 30px;
