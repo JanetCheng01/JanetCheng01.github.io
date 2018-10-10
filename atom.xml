@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Janet blog</title>
   
-  <subtitle>横看成岭侧成峰，远近高低各不同。纸上得来终觉浅，绝知此事要躬行。Be curious always! Keep trying!</subtitle>
+  <subtitle>横看成岭侧成峰，远近高低各不同。Be curious always!</subtitle>
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>

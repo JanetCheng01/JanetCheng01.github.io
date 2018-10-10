@@ -1874,7 +1874,7 @@ pre .javascript .function {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #ffffdb;
+  background: #c629ff;
 }
 .links-of-blogroll {
   font-size: 13px;
@@ -2800,13 +2800,13 @@ pre .javascript .function {
   padding-right: 260px;
 }
 header {
-  width: 80% !important;
+  width: 85% !important;
 }
 header.post-header {
   width: auto !important;
 }
 .container .main-inner {
-  width: 80%;
+  width: 85%;
 }
 .content-wrap {
   width: calc(100% - 260px);
@@ -3083,6 +3083,10 @@ header.post-header {
   .post-body {
     text-align: justify;
   }
+}
+.posts-expand .post {
+  margin-top: 20px;
+  margin-bottom: 20px;
 }
 .post-body p a {
   color: #0593d3;
